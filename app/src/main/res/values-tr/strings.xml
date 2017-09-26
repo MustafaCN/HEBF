@@ -368,7 +368,7 @@
     <string name="command">Command</string>
     <string name="game_booster_sub">Oyunu açmadan önce, performansını arttırmak için CPU governor\'ı ayarla.</string>
     <string name="battery_information">Pil bilgileri</string>
-    <string name="profiles_set">Profiles set</string>
+    <string name="profiles_set">Profiller ayarlandı</string>
     <string name="show_less">Daha az göster</string>
     <string name="temperatura">Sıcaklık: %1$s</string>
     <string name="set">Set</string>
